@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/stardust/Desktop/ATM simulation/build",
+  "command": "/usr/bin/clang++   -g -o CMakeFiles/main.dir/src/_customer.cpp.o -c \"/Users/stardust/Desktop/ATM simulation/src/_customer.cpp\"",
+  "file": "/Users/stardust/Desktop/ATM simulation/src/_customer.cpp"
+},
+{
+  "directory": "/Users/stardust/Desktop/ATM simulation/build",
+  "command": "/usr/bin/clang++   -g -o CMakeFiles/main.dir/src/_queue.cpp.o -c \"/Users/stardust/Desktop/ATM simulation/src/_queue.cpp\"",
+  "file": "/Users/stardust/Desktop/ATM simulation/src/_queue.cpp"
+},
+{
+  "directory": "/Users/stardust/Desktop/ATM simulation/build",
+  "command": "/usr/bin/clang++   -g -o CMakeFiles/main.dir/src/main.cpp.o -c \"/Users/stardust/Desktop/ATM simulation/src/main.cpp\"",
+  "file": "/Users/stardust/Desktop/ATM simulation/src/main.cpp"
+}
+]
